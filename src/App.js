@@ -1,9 +1,9 @@
-import Counter from "./components/Counter";
+import Users from "./components/Users/Users";
 
 function App() {
     return (
         <div className="App">
-            <Counter/>
+            <Users/>
         </div>
     );
 }
